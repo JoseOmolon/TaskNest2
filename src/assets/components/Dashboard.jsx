@@ -225,7 +225,7 @@ const DashboardContent = () => {
         <IconButton href="https://www.facebook.com/bobchopgaming565" target="_blank" aria-label="Facebook">
           <Facebook fontSize="medium" />
         </IconButton>
-        <IconButton href="https://github.com/BobchopGaming" target="_blank" aria-label="GitHub">
+        <IconButton href="https://github.com/JoseOmolon/TaskNest2" target="_blank" aria-label="GitHub">
           <GitHub fontSize="medium" />
         </IconButton>
       </Box>
