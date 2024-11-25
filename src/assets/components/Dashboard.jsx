@@ -217,7 +217,7 @@ const DashboardContent = () => {
         }}
       >
         <Typography variant="body2" sx={{ marginRight: 1 }} fontSize="medium">
-          2024 © <a href="https://bobchopgaming.github.io/myprofile.io/" target="_blank">Jose.O Web Solutions</a><b> |</b>
+          2024 © <a href="https://joseomolon.com" target="_blank">Jose.O Web Solutions</a><b> |</b>
         </Typography>
         <IconButton href="https://www.linkedin.com/feed/" target="_blank" aria-label="LinkedIn">
           <LinkedIn fontSize="medium" />
