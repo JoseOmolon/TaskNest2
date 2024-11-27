@@ -18,4 +18,5 @@ TaskNest is a modern, responsive productivity dashboard designed to centralize e
 - **Weather Updates**
   Get real-time weather data directly on the dashboard.  
 
+- **Responsive Design**
   
