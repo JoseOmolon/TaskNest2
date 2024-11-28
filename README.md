@@ -20,3 +20,5 @@ TaskNest is a modern, responsive productivity dashboard designed to centralize e
 
 - **Responsive Design**
 Optimized for both desktop and mobile devices for a seamless user experience.
+
+- **Future Enhancements:**  
