@@ -24,3 +24,6 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 - **Future Enhancements:** 
 
   - Real-time live updates for widgets  
+- AI chatbot integration for smarter task management
+
+---
