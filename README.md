@@ -27,3 +27,5 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 - AI chatbot integration for smarter task management
 
 ---
+
+## 🛠️ Tech Stack
