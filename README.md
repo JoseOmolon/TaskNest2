@@ -29,3 +29,6 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 ---
 
 ## 🛠️ Tech Stack
+
+- **React** – Framework for building the dynamic user interface  
+
