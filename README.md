@@ -34,3 +34,6 @@ Optimized for both desktop and mobile devices for a seamless user experience.
   
 
 - **Material UI** – Modern and sleek component design
+
+
+- **Tailwind CSS** – Utility-first CSS for responsive design  
