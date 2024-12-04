@@ -39,3 +39,5 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 - **Tailwind CSS** – Utility-first CSS for responsive design  
 
 - **Framer Motion** – Smooth and visually appealing animations  
+
+---
