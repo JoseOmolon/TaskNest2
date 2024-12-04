@@ -43,3 +43,6 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 ---
 
 ## 🚀 How to Run Locally
+
+
+1. Clone the repository:  
