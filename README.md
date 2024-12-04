@@ -41,3 +41,5 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 - **Framer Motion** – Smooth and visually appealing animations  
 
 ---
+
+## 🚀 How to Run Locally
