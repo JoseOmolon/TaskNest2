@@ -49,3 +49,4 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 ```bash
 git clone
 https://github.com/your-username/tasknest.git
+cd tasknest
