@@ -47,3 +47,4 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 
 1. Clone the repository:  
 ```bash
+git clone
