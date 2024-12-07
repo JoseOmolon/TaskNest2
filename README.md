@@ -56,4 +56,4 @@ Install dependencies
 
 npm install
 
-Start the development server server 1
+Start the development server
