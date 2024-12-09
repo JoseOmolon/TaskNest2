@@ -56,4 +56,4 @@ Install dependencies
 
 npm install
 
-Start the development server 12345
+Start the development server local
