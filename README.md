@@ -56,4 +56,4 @@ Install dependencies
 
 npm install
 
-Start the development server edit
+Start the development server
