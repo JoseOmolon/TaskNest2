@@ -27,7 +27,7 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 
   - Real-time live updates for widgets  
 - AI chatbot integration for smarter task management
-
+checc
 ---
 
 ## 🛠️ Tech Stack
