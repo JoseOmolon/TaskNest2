@@ -55,5 +55,5 @@ cd tasknest
 Install dependencies
 
 npm install
-
+q
 Start the development server local
