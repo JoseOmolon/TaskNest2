@@ -6,7 +6,7 @@ TaskNest is a modern, responsive productivity dashboard designed to centralize e
 
 ---
 
-## ✨ Features  12
+## ✨ Features  1
 
 - **Dynamic Dashboard Widgets**  
 
