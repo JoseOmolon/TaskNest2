@@ -30,7 +30,7 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 
 ---
 
-## 🛠️ Tech Stack 12
+## 🛠️ Tech Stack 1
 
 - **React** – Framework for building the dynamic user interface
   
