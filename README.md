@@ -33,7 +33,7 @@ Optimized for both desktop and mobile devices for a seamless user experience.
 
 ---
 
-## 🛠️ Tech Stack  1234
+## 🛠️ Tech Stack  123
 
 - **React** – Framework for building the dynamic user interface
   
