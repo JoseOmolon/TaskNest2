@@ -12,7 +12,7 @@ TaskNest is a modern, responsive productivity dashboard designed to centralize e
 
 - **To-Do List Integration**  
 
-  Effortlessly track tasks to stay productive.123
+  Effortlessly track tasks to stay productive.12
 
 
 - **Weather Updates** 
